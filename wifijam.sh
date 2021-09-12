@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Name: Kawaii Deauther
-# Author: Arya Narotama (4WSec)
-# Github: github.com/aryanrtm
-# Instagram: instagram.com/aryanrtm_
+# Name: Wifi Deauther
+# Author: Techie Sneh (4WSec)
+# Github: github.com/techiesneh
+# Instagram: instagram.com/techiesneh
 # Give me the credits if you recode this tool. Don't be a SKID!
-# Kawaii Deauther is made with <3 by Arya Narotama - Anon Cyber Team - 2020
+
 
 
 ### Colors ###

@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# The installer for the Kawaii Deauther package
-# Kawaii Deauther is made with <3 by Arya Narotama - 2020
+# The installer for the Wifi Deauther package
+# Wifi Deauther is made with <3 by Techie Sneh - 2021
 
 ### Colors ###
 BK=$(tput setaf 0) # Black
-GR=$(tput setaf 2) # Green
+GR=$(tput setaf 2) # Green 
 RD=$(tput setaf 1) # Red
 YW=$(tput setaf 3) # Yellow
 CY=$(tput setaf 6) # Cyan
